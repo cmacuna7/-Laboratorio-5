@@ -77,3 +77,9 @@ Tabla 5.2. Comprobación del Teorema de Thévenin.
 
 7.Bibliografía 
 
+• Floyd Thomas L, “Principios de Circuitos Eléctricos”, 8 ed. 2007 .Pearson Educación de México, S.A. de C.V. México, pp. 281-333.
+
+• Teorema de Thévenin. 2017. Ecured. Recuperado de: https://www.ecured.cu/Teorema_de_Thévenin
+
+• Veloso C (2017). TEOREMA DE THÉVENIN – CIRCUITO EQUIVALENTE. Recuperado de https://www.electrontools.com/Home/WP/teorema-de-thevenin-circuito-equivalente/
+
