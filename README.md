@@ -4,8 +4,11 @@
 
 Objetivos específicos:
 
+2. MARCO TEÓRICO 
 
-3. EXPLICACIÓN DEL PROCEDIMIENTO
+![image](https://user-images.githubusercontent.com/84789076/126645889-b2f7eaf7-1246-4314-abc8-372ebef9b900.png)
+
+4. EXPLICACIÓN DEL PROCEDIMIENTO
 
 Circuito Analítico
 
