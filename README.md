@@ -11,7 +11,7 @@ Circuito Analítico
 
 ![image](https://user-images.githubusercontent.com/84789076/126589208-e769b490-fe92-4a4b-bf01-4be3bc1d7fcf.png)
 
-![image](https://user-images.githubusercontent.com/84789076/126589229-1a722342-8c07-4766-8983-f628fa9914a3.png)
+![image](https://user-images.githubusercontent.com/84789076/126589422-6fc0d691-bbe5-4e6e-944c-1f3994bbdfa2.png)
 
 ![image](https://user-images.githubusercontent.com/84789076/126589254-e5f3795f-21ea-4a7b-8992-3abc4ace63da.png)
 
