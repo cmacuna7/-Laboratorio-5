@@ -33,6 +33,9 @@ Circuito Analítico
 
 Circuito Simulado
 
+![image](https://user-images.githubusercontent.com/84789076/126680639-162965ac-222b-4411-a8bb-d5d40aa3946a.png)
+
+
 Materiales
 
 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
