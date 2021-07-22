@@ -35,6 +35,15 @@ Circuito Simulado
 
 ![image](https://user-images.githubusercontent.com/84789076/126680639-162965ac-222b-4411-a8bb-d5d40aa3946a.png)
 
+![image](https://user-images.githubusercontent.com/84789076/126680885-62906050-6922-4efb-a91f-8c17ddb118db.png)
+
+![image](https://user-images.githubusercontent.com/84789076/126680941-6d5d89f4-3447-44c3-b990-d70c4c9e94ae.png)
+
+![image](https://user-images.githubusercontent.com/84789076/126681003-4e24ca13-65bd-45d0-bee8-410cdb443a8c.png)
+
+![image](https://user-images.githubusercontent.com/84789076/126681047-17b5453a-95af-4f01-8968-bc41ec758912.png)
+
+![image](https://user-images.githubusercontent.com/84789076/126681091-896f3c8d-202e-42ae-8d95-35e94de9e74b.png)
 
 Materiales
 
