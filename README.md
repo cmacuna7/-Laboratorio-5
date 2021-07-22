@@ -9,19 +9,21 @@ Objetivos específicos:
 
 Circuito Analítico
 
-![image](https://user-images.githubusercontent.com/84789076/126589066-016eb177-54c1-4ad0-b00f-614bdd446246.png)
+![image](https://user-images.githubusercontent.com/84789076/126589208-e769b490-fe92-4a4b-bf01-4be3bc1d7fcf.png)
 
-![image](https://user-images.githubusercontent.com/84789076/126589078-7165ac2c-7cab-43f9-b5f6-ae131df332d6.png)
+![image](https://user-images.githubusercontent.com/84789076/126589229-1a722342-8c07-4766-8983-f628fa9914a3.png)
 
-![image](https://user-images.githubusercontent.com/84789076/126589091-e1860397-2851-46b7-a0e3-c1c5367bdbff.png)
+![image](https://user-images.githubusercontent.com/84789076/126589254-e5f3795f-21ea-4a7b-8992-3abc4ace63da.png)
 
-![image](https://user-images.githubusercontent.com/84789076/126589098-83e15f7e-d2d4-47ca-aef2-27bd45fde809.png)
+![image](https://user-images.githubusercontent.com/84789076/126589275-955e776f-9188-4b8d-a1d6-746103b7b18c.png)
 
-![image](https://user-images.githubusercontent.com/84789076/126589113-47def6eb-4d17-4e15-8f73-e2832f968ba9.png)
+![image](https://user-images.githubusercontent.com/84789076/126589295-fb8712cc-f656-42e7-831d-862b93f8b066.png)
 
-![image](https://user-images.githubusercontent.com/84789076/126589122-05e860a4-fa04-4c19-90be-409ed3637fcd.png)
+![image](https://user-images.githubusercontent.com/84789076/126589320-51df146d-a5ac-4c00-9043-0a0df8467199.png)
 
+![image](https://user-images.githubusercontent.com/84789076/126589357-4629f74d-a3e9-440b-95e3-c56268016544.png)
 
+![image](https://user-images.githubusercontent.com/84789076/126589370-b49e43fa-0f98-47a3-befd-0d0562330219.png)
 
 Circuito Simulado
 
