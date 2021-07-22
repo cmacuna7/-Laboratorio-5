@@ -55,7 +55,13 @@ Materiales
 
 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
+Tabla 5.1. Valores del Circuito Equivalente de Thévenin
 
+![](Img/t1.PNG)
+
+Tabla 5.2. Comprobación del Teorema de Thévenin.
+
+![](Img/t2.PNG)
 
 5. VIDEO
 
