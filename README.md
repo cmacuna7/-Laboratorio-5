@@ -8,6 +8,9 @@ Objetivos específicos:
 
 ![image](https://user-images.githubusercontent.com/84789076/126645889-b2f7eaf7-1246-4314-abc8-372ebef9b900.png)
 
+![image](https://user-images.githubusercontent.com/84789076/126675761-362cdc02-ed8e-45a5-892a-0789d727d55d.png)
+
+
 4. EXPLICACIÓN DEL PROCEDIMIENTO
 
 Circuito Analítico
