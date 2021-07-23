@@ -63,6 +63,13 @@ Tabla 5.2. Comprobación del Teorema de Thévenin.
 
 ![](Img/t2.PNG)
 
+Calculo de error 
+
+![image](https://user-images.githubusercontent.com/84789076/126723432-57c41ffa-6659-4ccc-8d73-8544c65716fb.png)
+
+![image](https://user-images.githubusercontent.com/84789076/126723480-ff3295e9-2dee-4e76-a5a6-b786263b6c78.png)
+
+
 5. VIDEO
 
 
