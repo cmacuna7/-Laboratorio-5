@@ -49,7 +49,7 @@ Circuito Simulado
 
 ![image](https://user-images.githubusercontent.com/84789076/126681047-17b5453a-95af-4f01-8968-bc41ec758912.png)
 
-![image](https://user-images.githubusercontent.com/84789076/126681091-896f3c8d-202e-42ae-8d95-35e94de9e74b.png)
+![image](https://user-images.githubusercontent.com/84789076/126785201-ed790031-c43f-4dd9-8797-c6c96eae1aa6.png)
 
 Materiales
 
