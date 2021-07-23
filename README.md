@@ -72,7 +72,7 @@ Calculo de error
 
 5. VIDEO
 
-
+https://youtu.be/QxCHqq0__70
 
 6. CONCLUSIONES
 
