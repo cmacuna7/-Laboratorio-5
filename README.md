@@ -6,7 +6,7 @@
 
 Objetivos específicos:
 
-• Determinar los valores desconocidos del circuito ejecutado en el informe simplificados por Teorema Thevenin, mediante cálculos y ecuaciones encontradas.
+• Determinar los valores desconocidos del circuito ejecutado en el informe simplificados por Teorema Thévenin, mediante cálculos y ecuaciones encontradas.
 
 • Desarrollar en el simulador con los conocimientos adquiridos en prácticas, el circuito de tal forma que coincidan los valores medidos con los valores encontrados mediante el Teorema de Thévenin. 
 
@@ -76,11 +76,11 @@ https://youtu.be/QxCHqq0__70
 
 6. CONCLUSIONES
 
-* Tras entender el Teorema de Thévenin  junto a la superposicion podemos dar solucion a circuitos resistivos de una forma sencilla 
+* Tras entender el Teorema de Thévenin  junto a la superposicion podemos dar solución a circuitos resistivos de una forma sencilla 
 
-* Ahora somos capaces de determinar valores desconocidos simplificados ocn la ayuda del Teorema de Thevenin.
+* Ahora somos capaces de determinar valores desconocidos simplificados con la ayuda del Teorema de Thevenin.
 
-* En relacion a lo expuesto podemos concluir que estamos preparados para realizar ,analizar y resolver circuitos resistivos.
+* En relación a lo expuesto podemos concluir que estamos preparados para realizar ,analizar y resolver circuitos resistivos.
 
 7.Bibliografía 
 
